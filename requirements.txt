@@ -1,4 +1,4 @@
-torch==1.7.1
-torchvision==0.8.2
+torch==2.0.0
+torchvision==0.15.1
 timm==0.5.4
 pyyaml
